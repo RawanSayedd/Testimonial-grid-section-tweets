@@ -73,6 +73,9 @@ align-items: center;
     margin-left:10px;
 }
 
+.attribution{
+    margin-bottom: 10px;
+}
 @media (min-width:576px){
     #main-container{
         max-width: 1200px;
